@@ -1,0 +1,8 @@
+# PyInstaller
+build/
+dist/
+*.spec
+__pycache__/
+
+# Bundletool (too large for git, ~31MB)
+bundletool.jar
